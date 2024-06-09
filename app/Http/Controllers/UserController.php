@@ -173,3 +173,4 @@ class UserController extends Controller
         return Storage::url($path);
     }
 }
+
